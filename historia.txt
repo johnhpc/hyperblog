@@ -1,6 +1,5 @@
 Esta es una prueba de JOHNP.
 
-Para ejecutar la clase de GIT.
-despues de aprenderlo.
+Para practicar la clase de GIT.
 
-Como requisito para aprobar este proyecto y su correspondiente repositorio.
+mañana nos enfocaremos en su vida laboral
