@@ -3,4 +3,4 @@ Esta es una prueba de JOHNP.
 Para ejecutar la clase de GIT.
 despues de aprenderlo.
 
-Como requisito para aprobar este curso.
+Como requisito para aprobar este proyecto.
